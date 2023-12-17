@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Random Hadith</h1>
 
-## Getting Started
+<div align="center">
+ 
+[![Stars](https://img.shields.io/github/stars/bylkamar/random-hadith?style=social)](https://github.com/bylkamar/random-hadith)
+[![Forks](https://img.shields.io/github/forks/bylkamar/random-hadith?style=social
+)](https://github.com/bylkamar/random-hadith)
+[![Issues](https://img.shields.io/github/issues/bylkamar/random-hadith
+)](https://github.com/bylkamar/random-hadith)
 
-First, run the development server:
+**A basic web app to pick a random hadith based on the fawazahmed0 <a href="https://github.com/fawazahmed0/hadith-api">free hadith api</a>**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+</div>
+
+<img src="https://assets.fakecrime.bio/uploads/34ae6854-6eb6-47f3-8f60-6a4c0f479ebc.png">
+
+## 📦 Localhost execution
+
+```js
+npm i
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```js
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+you can also build the application
+<br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+> If you have any ideas or simply want to <a href="https://github.com/bylkamar/random-hadith/pulls">contribute to this project</a>
 
-## Learn More
+## 👥 Contributeurs
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">
+  <a href="https://github.com/bylkamar/random-hadith/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=bylkamar/random-hadith" />
+  </a>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**GNU GENERAL PUBLIC LICENSE**
