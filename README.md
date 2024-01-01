@@ -12,7 +12,10 @@
 
 </div>
 
-<img src="https://assets.fakecrime.bio/uploads/34ae6854-6eb6-47f3-8f60-6a4c0f479ebc.png">
+<img src="https://i.imgur.com/V8viUZf.png">
+<div>
+
+</div>
 
 ## 📦 Localhost execution
 
